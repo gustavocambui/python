@@ -1,0 +1,8 @@
+PYTHON - RESUMO LIVROS
+
+str() - converte para string.
+int('') - converte para inteiro
+float () - converte para número flutuante
+input () sempre retorna uma string, *quando quiser solicitar dados do usuário, input os coleta*
+
++ e * serve também para operações com strings. para concatenar, e "multiplicar"
