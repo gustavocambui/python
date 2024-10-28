@@ -1,0 +1,8 @@
+PYTHON RESUMOS
+
+• O operador == (igual a) pergunta se dois valores são iguais.
+• O operador = (atribuição) coloca o valor à direita na variável da
+esquerda.
+Para ajudar a lembrar qual é qual, observe que o operador == (igual a)
+é constituído de dois caracteres, assim como o operador != (diferente
+de) também.
