@@ -1,3 +1,6 @@
+name = 'Joao'
+age = 10
+
 if name == 'Alice':
  print('Hi, Alice.')
 elif age < 12:
